@@ -6,7 +6,7 @@ Predict passenger survival on the Titanic using machine learning.
 - Competition: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 - Task: Binary classification
 - Best validation accuracy: ~84% (Random Forest)
-- Public leaderboard score: [your score, e.g., 0.782]
+- Public leaderboard score: 0.782
 
 ## Key Learnings / Techniques
 - EDA & visualization (Seaborn)
@@ -28,8 +28,7 @@ Predict passenger survival on the Titanic using machine learning.
 
 ## Results
 - Cross-val accuracy: ~0.83
-- Leaderboard: [link or screenshot]
-
+  
 ## Future Improvements
 - Try XGBoost / LightGBM
 - Add SHAP explanations
